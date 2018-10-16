@@ -57,7 +57,7 @@ Some work in progress documentation regarding some of the key features of Fracta
 - [Components](/docs/components.md)
 - [Parser plugins](/docs/plugins.md)
 - [Render engines](/docs/engines.md)
-- [UI themes](/docs/themes.md)
+- [UI themes](/docs/ui.md)
 - [CLI](/docs/cli.md)
 
 ## Motivation
